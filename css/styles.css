@@ -1,0 +1,78 @@
+/* Color Palette
+    #2E3532 Charleston Green rgb(46,53,50)
+    #93B7BE Dark Sky Blue rgb(147,183,190)
+    #F1FFFA Mint Cream rgb(241,255,250)
+    #887880 Rocket Metallic rgb(136,120,128)
+    #FFBF00 Amber rgb(255,191,0)
+*/
+
+
+
+/* Global styles
+----------------------------------------------------*/
+body {
+    color: #2E3532;
+}
+
+img {
+    width: 300px;
+}
+
+a {
+    color: #FFBF00;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+/* Profile
+----------------------------------------------------*/
+header {
+    background: #2E3532;
+    color: #F1FFFA;
+}
+
+/* Projects
+----------------------------------------------------*/
+.projects {
+    background: #F1FFFA;
+}
+
+.projects a {
+    color: #887880;
+}
+
+.projects .btn {
+    color: #F1FFFA;
+    background: #887880;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.projects .btn:hover {
+    background: rgb(136,120,128,.5);
+}
+
+/* Work Experience
+----------------------------------------------------*/
+.work {
+    background: #2E3532;
+    color: #F1FFFA;
+}
+
+
+/* Education
+----------------------------------------------------*/
+.education {
+    background: #F1FFFA;
+}
+
+
+/* Contact Info
+----------------------------------------------------*/
+footer {
+    background: #2E3532;
+    color: #F1FFFA;
+}
