@@ -50,8 +50,9 @@ a:hover {
 }
 
 h1 {
-    font-size: 3em;
+    font-size: 4em;
     margin: 1em 0 .5em 0;
+    -webkit-mask-image: -webkit-gradient(linear, left top, left bottom, from(rgba(16,29,66,1)), to(rgba(16,29,66,.1)));
 }
 
 h2 {
